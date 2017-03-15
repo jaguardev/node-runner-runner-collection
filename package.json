@@ -1,6 +1,6 @@
 {
   "name": "runner-runner-collection",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Collection library",
   "main": "index.js",
   "scripts": {
