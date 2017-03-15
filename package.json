@@ -1,0 +1,29 @@
+{
+  "name": "runner-runner-collection",
+  "version": "1.0.0",
+  "description": "Collection library",
+  "main": "index.js",
+  "scripts": {
+	  "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaguardev/node-runner-runner-collection.git"
+  },
+  "keywords": [
+    "collection",
+    "collections",
+    "data structures",
+    "queue"
+  ],
+  "author": "Vlad Chernikov <vlad.chernikov@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jaguardev/node-runner-runner-collection/issues"
+  },
+  "homepage": "https://github.com/jaguardev/node-runner-runner-collection#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "should": "^8.2.2"
+  }
+}
