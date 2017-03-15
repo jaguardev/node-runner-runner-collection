@@ -3,9 +3,10 @@
 /**
  * Class Queue
  * <pre>
- * const Queue = require('runner-runner-collection');
+ * 'use strict';
+ * const Collection = require('runner-runner-collection');
  *
- * let queue = new Queue();
+ * let queue = new Collection.Queue();
  *
  * queue.enqueue("Winnie");
  * queue.enqueue("Christopher");
